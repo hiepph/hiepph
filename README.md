@@ -1,4 +1,4 @@
-### Hi there 👋 <img src="https://img.icons8.com/color/48/000000/vietnam.png"/>
+### Hi there 👋 🇻🇳
 
 Welcome to my home sweet home 
 
@@ -15,7 +15,8 @@ Proud to have experiences in
 
 And
 
-<img src="https://img.icons8.com/office/16/000000/japan.png"/>
+<img src="https://img.icons8.com/office/80/000000/japan.png"/>
+
 
 #### Philosophy
 
