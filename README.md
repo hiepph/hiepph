@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 <img src="https://img.icons8.com/color/48/000000/vietnam.png"/>
 
-Welcome to my home sweet home.
+Welcome to my home sweet home 
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/3oKGz9PtFqfXQy0yre/giphy.gif">
@@ -15,5 +15,8 @@ Proud to have experiences in
 
 And
 
-<img src="https://img.icons8.com/clouds/100/000000/japan.png"/> <img src="https://img.icons8.com/clouds/100/000000/japan.png"/>
+<img src="https://img.icons8.com/office/16/000000/japan.png"/>
 
+#### Philosophy
+
+<img src="https://img.icons8.com/pastel-glyph/64/000000/yin-yang.png"/> Taoism
